@@ -6,7 +6,7 @@ This repository currently contains only this README file. No application source,
 
 - **Owner:** Engr. Abu Taher
 - **Brand:** TRTT Voyage — From Vision to Global Brand! Explore Beyond. Discover Everything.
-- **Official website:** https://trttvoyage.com
+- **Official website:** https://www.trttvoyage.com
 - **Canonical TRTT website/app source:** https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot
 
 ## Current Status
